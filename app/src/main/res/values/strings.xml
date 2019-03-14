@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab4B</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="calculate">Calculate</string>
+    <string name="convertDist">Convert</string>
+    <string name="converttemp">Convert_</string>
+    <string name="convertdist_">Convert</string>
+    <string name="convertdist">Convert</string>
+</resources>
